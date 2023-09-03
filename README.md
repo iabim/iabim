@@ -1,17 +1,21 @@
 ### Hi, I'm Bola 👋
 
-I'm a passionate software developer and graphic designer with a versatile skill set that allows me to bring creative solutions to life. With proficiency in a wide range of programming languages such as PHP, SQL, JavaScript, CSS, C++, and Python, I have the technical expertise to develop robust and innovative applications.
+Software Developer - Web and Graphic Designer
 
-My design prowess extends to Adobe Photoshop, where I craft visually stunning and user-friendly interfaces that enhance user experiences. I believe in the power of combining both development and design to create products that not only function flawlessly but also captivate users with their aesthetics.
-What I Do
+🌐💻🎨
 
-    Software Development: I specialize in web and desktop application development using PHP, SQL, JavaScript, CSS, C++, and Python. I'm committed to writing clean, maintainable code that solves real-world problems.
+Are you in search of a dynamic and versatile talent who can seamlessly blend the worlds of software development and graphic design to bring your creative visions to life? 
+Look no further, i'm a skilled and innovative professional with a proven track record in crafting cutting-edge digital solutions.
 
-    Graphic Design: My skills in Adobe Photoshop enable me to design captivating visuals, from logos and banners to user interfaces, ensuring that your project stands out from the crowd.
+With an innate passion for technology and design, i've honed my abilities over the years to become a true maestro in this field. Proficient in an array of programming languages including C++, PHP, SQL, Python, JavaScript, CSS, and HTML, i possess the rare capability to not only envision captivating designs but also to transform these visions into fully functional, user-friendly websites and software applications.
 
-Let's Collaborate
+My portfolio speaks volumes about my ability to merge creativity with technical prowess. My web design and software applications are a testament to my commitment to excellence and client satisfaction. Whether you require a sleek e-commerce platform, a data-driven web application, an interactive user interface or a simple website for your company, i've the expertise to deliver solutions tailored to your specific needs.
 
-I'm always on the lookout for exciting projects and opportunities to collaborate with like-minded individuals and teams. If you have an interesting project that requires both technical expertise and an eye for design, I'd love to hear from you. Feel free to reach out, and let's turn your ideas into reality!
+But that's not all – i'm also an expert graphic designer. Armed with Adobe Photoshop, i have the power to turn ideas into stunning visual masterpieces. From crafting captivating typographics to designing eye-catching marketing materials, i take pride in creating memorable and impactful designs that resonate with audiences.
+
+One of my most admirable qualities is unwavering dedication to tackling challenging projects, thriving on the opportunity to push boundaries, exploring new horizons, and collaborating with clients and fellow creatives to bring fresh ideas to fruition. Whether it's a complex software project, a web development challenge, or a graphic design endeavor, i'm always up for the task.
+
+So, if you're seeking a dynamic professional who possesses the rare ability to bridge the gap between software development and graphic design, look no further. Bola is ready to embark on your next project, infusing it with creativity, technical expertise, and a passion for excellence. Don't hesitate to reach out for collaboration or to discuss your most exciting and ambitious ventures. Together, we can turn ideas into reality and make a lasting impact in the digital world. 🚀🎉
 
 Contact me:.
 
@@ -19,3 +23,5 @@ Contact me:.
     LinkedIn: [linkedin.com/in/ibiro](https://www.linkedin.com/in/ibiro/)
     GitHub: [github.com/iabim](https://github.com/iabim)
 
+👀 - i ❤ Bitcoin ![Bitcoin_evergreen](https://github.com/iabim/iabim/assets/140084512/e30a63bc-de5b-4104-8e3f-03c38c1938f6)
+ 
