@@ -17,5 +17,5 @@ Contact me:.
 
 - 📫     Email: ibironkeabimbolak@gmail.com
     LinkedIn: [linkedin.com/in/ibiro](https://www.linkedin.com/in/ibiro/)
-    GitHub: [github.com/your-username](https://github.com/iabim)https://github.com/iabim
+    GitHub: [github.com/iabim](https://github.com/iabim)
 
