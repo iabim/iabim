@@ -23,5 +23,5 @@ Contact me:.
     LinkedIn: [linkedin.com/in/ibiro](https://www.linkedin.com/in/ibiro/)
     GitHub: [github.com/iabim](https://github.com/iabim)
 
-👀 - i ❤ Bitcoin ![Bitcoin_evergreen](https://github.com/iabim/iabim/assets/140084512/e30a63bc-de5b-4104-8e3f-03c38c1938f6)
+👀 -  ![Bitcoin_evergreen](https://github.com/iabim/iabim/assets/140084512/e30a63bc-de5b-4104-8e3f-03c38c1938f6)
  
