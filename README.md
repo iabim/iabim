@@ -24,7 +24,7 @@ Software Developer - Web and Graphic Designer
 Are you in search of a dynamic and versatile talent who can seamlessly blend the worlds of software development and graphic design to bring your creative visions to life? 
 Look no further, i'm a skilled and innovative professional with a proven track record in crafting cutting-edge digital solutions.
 
-
+</font>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
