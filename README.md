@@ -1,4 +1,5 @@
-<div id="header" align="center">
+<body> 
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -15,7 +16,7 @@
 
 
 ### Hi, I'm Bola 👋
-
+<font color="blue">
 Software Developer - Web and Graphic Designer
 
 🌐💻🎨
@@ -62,7 +63,7 @@ So, if you're seeking a dynamic professional who possesses the rare ability to b
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iabim&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabim&layout=compact&theme=vision-friendly-dark)](https://github.com/iabim/github-readme-stats)
 
-
+</body>
 Contact me:.
 
 - 📫     Email: ibironkeabimbolak@gmail.com
