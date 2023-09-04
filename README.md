@@ -13,7 +13,7 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+
 ### Hi, I'm Bola 👋
 
 Software Developer - Web and Graphic Designer
