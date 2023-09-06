@@ -61,7 +61,7 @@ One of my most admirable qualities is unwavering dedication to tackling challeng
 So, if you're seeking a dynamic professional who possesses the rare ability to bridge the gap between software development and graphic design, look no further. Bola is ready to embark on your next project, infusing it with creativity, technical expertise, and a passion for excellence. Don't hesitate to reach out for collaboration or to discuss your most exciting and ambitious ventures. Together, we can turn ideas into reality and make a lasting impact in the digital world. 🚀🎉
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iabim&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabim&layout=compact&theme=vision-friendly-dark)](https://github.com/iabim/github-readme-stats)
+
 
 </body>
 Contact me:.
